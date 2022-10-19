@@ -21,9 +21,9 @@ Clark Minor, UCLA
 Andy forgot his BookFace login again. He has been sent a link to reset his password. A 5-digit verification code was sent to his cell phone, but unfortunately, he lost that too. Can you help Andy retrieve his password?
 
 ### HINTS:
-1. A certain snake might help mechanize this process.
+1. Using a scripting language -- especially one with an easy-to-understand *requests* library -- might be helpful for automating verification code guesses.
 
-### PENALTY:
+### HINT PENALTY:
 12
 
 ### DIFFICULTY LEVEL:
